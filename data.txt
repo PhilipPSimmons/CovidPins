@@ -1,1 +1,5 @@
-[]
+- path: Covid-19-Full-Data
+  name: Covid-19-Full-Data
+  rows: 66157
+  cols: 35
+  type: table

@@ -1,0 +1,42 @@
+path:
+- data.csv
+- data.rds
+rows: 66157
+cols: 35
+columns:
+  iso3c: character
+  country: character
+  date: Date
+  confirmed: numeric
+  deaths: numeric
+  recovered: numeric
+  ecdc_cases: numeric
+  ecdc_deaths: numeric
+  total_tests: numeric
+  tests_units: character
+  soc_dist: numeric
+  mov_rest: numeric
+  pub_health: numeric
+  gov_soc_econ: numeric
+  lockdown: numeric
+  apple_mtr_driving: numeric
+  apple_mtr_walking: numeric
+  apple_mtr_transit: numeric
+  gcmr_retail_recreation: numeric
+  gcmr_grocery_pharmacy: numeric
+  gcmr_parks: numeric
+  gcmr_transit_stations: numeric
+  gcmr_workplaces: numeric
+  gcmr_residential: numeric
+  gtrends_score: numeric
+  gtrends_country_score: integer
+  region: character
+  income: character
+  population: numeric
+  land_area_skm: numeric
+  pop_density: numeric
+  pop_largest_city: numeric
+  life_expectancy: numeric
+  gdp_capita: numeric
+  timestamp: POSIXct
+type: table
